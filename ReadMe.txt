@@ -1,5 +1,3 @@
-# Twitter-Sentiment-Analysis
-
 Motivation:
 
 NLP Sentiment Analysis - Social Media Monitoring, gain public opinion on important topics (Adopted by Organizations on a world-wide scale)
@@ -9,7 +7,7 @@ Keeping in mind, how popular Social Media platforms are - Twitter is one  of the
 
 Problem Definition:
 
-Objective: To classify a tweet as a Positive or Negative Sentiment based on itâ€™s content
+Objective: To classify a tweet as a Positive or Negative Sentiment based on it’s content
 
 Machine Learning Algorithms used:
 Naive Bayes Method
